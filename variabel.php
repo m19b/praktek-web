@@ -1,5 +1,5 @@
 <?php
-    $namadb = "dbwebf";
+    $namadb = "dbweb";
     $cek = "dev";
 
     $isitb = "/*
